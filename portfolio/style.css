@@ -51,7 +51,7 @@ h4 {
 
 .hero {
   background: var(--branding-color);
-  padding: 160px 20px;
+  padding: 80px 20px;
   text-align: center;
 }
 
@@ -75,7 +75,7 @@ h4 {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 .content h1 {
   font-size: 64px;
@@ -186,20 +186,8 @@ footer .social-links a:hover {
     text-align: center;
   }
 
-  .hero {
-    padding: 80px 20px;
-  }
-
   .content {
     text-align: center;
     padding: 0;
-  }
-
-  footer .contact-box {
-    padding: 30px;
-  }
-
-  h4 {
-    font-size: 18px;
   }
 }
